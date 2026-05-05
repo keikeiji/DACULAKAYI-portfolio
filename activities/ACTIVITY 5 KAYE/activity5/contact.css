@@ -1,0 +1,19 @@
+body{
+    font-family: Arial;
+}
+
+h2{
+    color:#5d4037;
+}
+
+input, textarea{
+    width:250px;
+    padding:8px;
+}
+
+button{
+    background:#6d4c41;
+    color:white;
+    border:none;
+    padding:10px 15px;
+}
